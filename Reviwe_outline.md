@@ -1,4 +1,29 @@
 # Comp5415 reviewing notes
+## Design issues
+![a1b61f58f68a9d9193cb82749607b7f](https://github.com/IAPEY/COMP_5415/assets/129077906/d7357d5e-57b1-4a5c-afcb-207ede5d1e85)
+### User-centered design
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/679752ef-5fe7-4f16-b9b6-a170189e07fb)  
+### storyboarding
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/78f4ddfe-2340-4b77-a31b-6e90e0718f3d)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/db875bb4-a3ca-4646-9d8f-a0c2f9f1a2c1)
+### Color&light-how to use color effectively in your design  
+
+## Four Basic Principles
+### Alignment 
+我的理解是：alignment 的作用是使得页面里面的所有元素整齐有序，分组明确，让人的视觉更容易去注意到内容而不是被无序信息打扰。  
+所以我们要做的事情是降低页面中文字以及其他组成元素之间的无序度。
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/94aafad2-2d95-442d-9367-17ac0dc59e98)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/08d3b4ae-9514-41d1-b1a2-911ef660b144)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/19e97e0d-75f8-455a-a66c-b9824edda1a2)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/01074855-a5bc-485e-a7e9-8550d0ee33a2)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/66063934-6a33-41e3-952b-0f53c1a7043f)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/0872bbec-dbf5-4882-afb2-a40b69419f5f)  
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/6e451980-6223-464c-aba3-30f32e4f1aa8)
+### Proximity
+
+
+
+
 
 ## 3D Computer Animation-modeling
 
