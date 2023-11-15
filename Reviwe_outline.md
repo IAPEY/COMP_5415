@@ -1,4 +1,4 @@
-# Comp5415 reviewing notes
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/a85e4b4f-aff5-46be-9e71-f2186be8e83e)# Comp5415 reviewing notes
 ## Design issues
 ![a1b61f58f68a9d9193cb82749607b7f](https://github.com/IAPEY/COMP_5415/assets/129077906/d7357d5e-57b1-4a5c-afcb-207ede5d1e85)
 ### User-centered design
@@ -7,7 +7,7 @@
 ![image](https://github.com/IAPEY/COMP_5415/assets/129077906/78f4ddfe-2340-4b77-a31b-6e90e0718f3d)
 ![image](https://github.com/IAPEY/COMP_5415/assets/129077906/db875bb4-a3ca-4646-9d8f-a0c2f9f1a2c1)
 ### Color&light-how to use color effectively in your design  
-
+没找到在哪
 ## Four Basic Principles
 ### Alignment 
 我的理解是：alignment 的作用是使得页面里面的所有元素整齐有序，分组明确，让人的视觉更容易去注意到内容而不是被无序信息打扰。  
@@ -20,15 +20,65 @@
 ![image](https://github.com/IAPEY/COMP_5415/assets/129077906/0872bbec-dbf5-4882-afb2-a40b69419f5f)  
 ![image](https://github.com/IAPEY/COMP_5415/assets/129077906/6e451980-6223-464c-aba3-30f32e4f1aa8)
 ### Proximity
+通过安排元素之间的间隔距离和位置，来让各个元素分组。相同性质的文字或者元素间隔距离相同，不同性质的元素间隔距离不同，可以给读者
+通过排版带来更加良好的信息获取体验。
 ![image](https://github.com/IAPEY/COMP_5415/assets/129077906/5d0e7b8a-b68f-48a3-890c-f0a626dfd166)
 ![image](https://github.com/IAPEY/COMP_5415/assets/129077906/7dccc3e9-76c5-4463-a437-69e3d23923e6)
 ![image](https://github.com/IAPEY/COMP_5415/assets/129077906/89ab4a3f-3c39-4bc7-8db0-f5746c21835a)
-![image](https://github.com/IAPEY/COMP_5415/assets/129077906/9e9997d9-9468-4043-8b90-06cc97e8f615)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/9574ff84-6d68-4618-af5c-a7bd65d0ee54)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/71591c8c-50d4-4bc7-8da3-0f6f154c90fb)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/43104880-2025-4dac-91c6-b9705716d4db)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/8f49757c-4540-4f46-b222-ce34f5a93041)
+### Repetition
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/a74c1fdb-8340-4ea3-8936-2b30da51975b)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/0fb335ae-9b7a-4cd4-98ca-451e1cfe8b8d)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/62fba3e6-b959-4e78-971a-ca2feeb71f41)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/c3fc5624-aaed-486c-9ccd-ee1999533a93)
+### Contrast
+通过增加特定元素对比的方式使得首要信息更加突出，也可以增加设计的视觉丰富度。引导读者视线。
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/8b3399e5-4eee-460e-a345-5ab9dcfa9a5f)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/ceb83d60-fbe4-402d-b8ee-6079475042a0)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/425f9fac-4f1b-4f43-9f3d-862a7e3ab095)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/0579e782-7c65-4b1b-99b8-d7534079ebf2)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/2b1fde24-b2d1-46ee-9eda-35d03c587020)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/26899306-b35a-4c0e-883a-0465b26ba043)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/ef2d7d4a-25be-4cc0-a1c3-11fb3bc15c3b)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/87d079b8-60c7-4b04-9ca1-2db011ee0b8f)
+### 混合案例
+W6 lecture slide下面有个混合使用这四种方法的案例，不知道考到怎么用的可以去看。
 
+## Digital Images
+![168f1ae047e2b49f358b8b04cd03f5f](https://github.com/IAPEY/COMP_5415/assets/129077906/b6006b90-040c-49be-a55c-4ee2435ab4a3)
 
+### Digital image fundamentals
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/fa884c0b-97b4-4001-975e-aab33927a676)
+这里说一下，如果要计算图片占用存储空间大小，运算之后假如换算成Byte要在给出的运算公式的基础上除8，图片在拉伸或者缩小之后会出现锯齿或者失真现象，
+是与图像和屏幕的频率和采样率有关，图像本身是一个信息序列，在屏幕则是以一定的采样率把图像显示出来。
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/67089529-c684-4838-974d-b5273fbbca41)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/8566509d-675b-4ff3-b320-a3a603c8963c)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/595f65f2-44c4-4250-beb5-47520b9ce568)
+### Color Modes
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/6e5e745f-d97e-4dc8-a7e0-f93a961a00b1)
+#### RGB
+根据rgb三种颜色混合来确定颜色。这里有一个很奇妙的点，8bit，和16bit的位深都不是3的倍数是怎么一回事。
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/2d2a9196-3c0f-49ec-b9a9-3fdf6c1110c0)
 
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/b0570548-5868-4fe8-8b0f-f6738085e1c9)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/9d0f1bff-f2b3-4fcd-bcaa-fd1b9bdf6cf1)
+#### CYMK
+CYM相当于RGB与白色的补色，混合时会产生效果不好的黑色，所以多用了一种黑色的颜料。该颜色模式多用于印刷。
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/8c9da540-032d-42f5-8111-1a6ba11e23fe)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/9268f062-0f47-41aa-a7de-25f112d4e035)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/47253652-78d4-436d-bdbc-b746f8297da8)
 
+#### HSV
+最符合人类逻辑的颜色模式，色相明度饱和度，多用于数码绘画等艺术创作。
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/23e62a86-0990-431c-942d-24bd1cfe843a)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/b9dbbd00-95d4-4b0f-9131-c25157fc41e5)
 
+####颜色通道
+一张图片相当于多个颜色通道的叠加。颜色通道表示的图片一般由一张黑白的明度图表示，使用黑白图表示可以将颜色的多少转化为可以被量化和视觉化的明度图。该颜色含量越多的地方
+该通道的明度图越亮越白，颜色越少的地方，该通道的明度图越暗越黑。
 ## 3D Computer Animation-modeling
 
 ![468a29a1cc59388c13915c637ec2f2d](https://github.com/IAPEY/COMP_5415/assets/129077906/40a9e501-af31-4658-821a-d48da086a181)  
