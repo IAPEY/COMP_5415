@@ -20,6 +20,10 @@
 ![image](https://github.com/IAPEY/COMP_5415/assets/129077906/0872bbec-dbf5-4882-afb2-a40b69419f5f)  
 ![image](https://github.com/IAPEY/COMP_5415/assets/129077906/6e451980-6223-464c-aba3-30f32e4f1aa8)
 ### Proximity
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/5d0e7b8a-b68f-48a3-890c-f0a626dfd166)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/7dccc3e9-76c5-4463-a437-69e3d23923e6)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/89ab4a3f-3c39-4bc7-8db0-f5746c21835a)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/9e9997d9-9468-4043-8b90-06cc97e8f615)
 
 
 
