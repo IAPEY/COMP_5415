@@ -76,7 +76,7 @@ CYM相当于RGB与白色的补色，混合时会产生效果不好的黑色，�
 ![image](https://github.com/IAPEY/COMP_5415/assets/129077906/23e62a86-0990-431c-942d-24bd1cfe843a)
 ![image](https://github.com/IAPEY/COMP_5415/assets/129077906/b9dbbd00-95d4-4b0f-9131-c25157fc41e5)
 
-####颜色通道
+#### 颜色通道
 一张图片相当于多个颜色通道的叠加。颜色通道表示的图片一般由一张黑白的明度图表示，使用黑白图表示可以将颜色的多少转化为可以被量化和视觉化的明度图。该颜色含量越多的地方
 该通道的明度图越亮越白，颜色越少的地方，该通道的明度图越暗越黑。
 ### Fundamental Image enhancement techniques
@@ -110,7 +110,6 @@ salt & pepper noise 老师上课的时候很喜欢提。使用中值滤波器（
 使用拉普拉斯算子得出的滤波器加上45度的角度形成的一个拉普拉斯滤波器对图像进行线性计算得出锐化后的图像。拉普拉斯滤波器是一种高通滤波器。下面提供了两种锐化图像的方法。
 ![image](https://github.com/IAPEY/COMP_5415/assets/129077906/6fdf47a9-fe08-49b2-bcdb-f6f8ff36bb62)
 ![image](https://github.com/IAPEY/COMP_5415/assets/129077906/0c5de3f4-be33-4632-8a86-ccb314354d82)
-
 
 ## 3D Computer Animation-modeling
 
