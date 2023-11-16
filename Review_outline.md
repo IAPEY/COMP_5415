@@ -115,12 +115,16 @@ salt & pepper noise 老师上课的时候很喜欢提。使用中值滤波器（
 
 ![468a29a1cc59388c13915c637ec2f2d](https://github.com/IAPEY/COMP_5415/assets/129077906/40a9e501-af31-4658-821a-d48da086a181)  
 Week 8 lecture.
+### Working with 2D shapes
+#### (Curves) and Splines
 ![image](https://github.com/IAPEY/COMP_5415/assets/129077906/d307ef13-a70c-4069-8d97-b9e8aca60d3d)
 ![image](https://github.com/IAPEY/COMP_5415/assets/129077906/0d5e083f-ec22-4db3-b6b6-0ddf87de99b9)
+#### 2D shape attach,detach,boolean(,operations,mirror,array)
 ![image](https://github.com/IAPEY/COMP_5415/assets/129077906/29b96267-a0bd-4cdf-9083-988212c4c997)
 ![image](https://github.com/IAPEY/COMP_5415/assets/129077906/f40a431e-5a5a-46fa-bfa7-6004cd21565c)
 ### Turning 2D shapes into 3D objects
 ![image](https://github.com/IAPEY/COMP_5415/assets/129077906/daeb99c1-9e75-4512-b942-41f771d99ac7)
+#### Extrusions
 ![image](https://github.com/IAPEY/COMP_5415/assets/129077906/54882599-ba9f-4972-b45a-7bbef579dd22)
 ![image](https://github.com/IAPEY/COMP_5415/assets/129077906/7a844842-5bd4-49d1-8fb5-3d6830efa6c7)
 ![image](https://github.com/IAPEY/COMP_5415/assets/129077906/3c79937b-29e5-401e-bf2d-cb51f8f04b75)
