@@ -116,10 +116,10 @@ salt & pepper noise 老师上课的时候很喜欢提。使用中值滤波器（
 ![468a29a1cc59388c13915c637ec2f2d](https://github.com/IAPEY/COMP_5415/assets/129077906/40a9e501-af31-4658-821a-d48da086a181)  
 Week 8 lecture.
 ### Working with 2D shapes
-#### (Curves) and Splines
+#### Curves and Splines
 ![image](https://github.com/IAPEY/COMP_5415/assets/129077906/d307ef13-a70c-4069-8d97-b9e8aca60d3d)
 ![image](https://github.com/IAPEY/COMP_5415/assets/129077906/0d5e083f-ec22-4db3-b6b6-0ddf87de99b9)
-#### 2D shape attach,detach,boolean(,operations,mirror,array)
+#### 2D shape attach,detach,boolean(,operations,mirror,array)括号内的slides里面没有出现，需要自己查找
 ![image](https://github.com/IAPEY/COMP_5415/assets/129077906/29b96267-a0bd-4cdf-9083-988212c4c997)
 ![image](https://github.com/IAPEY/COMP_5415/assets/129077906/f40a431e-5a5a-46fa-bfa7-6004cd21565c)
 ### Turning 2D shapes into 3D objects
@@ -160,6 +160,67 @@ Week 8 lecture.
 这个array的方法在上面2D里面有提到但是slides里面没有讲解，与3D同理
 ![image](https://github.com/IAPEY/COMP_5415/assets/129077906/4feff960-2918-4963-ab4f-b83043b85856)
 ![image](https://github.com/IAPEY/COMP_5415/assets/129077906/6dbafcff-e68e-4e4e-a3e0-ef4cd2a51ccb)
+### Low-ploy and high-resolution modeling
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/a828d2ae-f46e-4777-a580-f6932f0ab0c7)
+#### Low-Poly Modeling
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/f107549a-37d2-449e-ac80-cf8bc6d1fe29)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/d98c5e32-a862-4180-8540-b259b79a49d7)
+### Level of Details(LoD) & Subdivision
+#### LoD
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/91c020a3-7014-4f55-818e-e59d8a0a1615)
+#### Subdivision
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/a0f262a2-48ed-49c1-961f-2617746a6e4c)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/d0f49b83-40c7-44b9-ba9c-804139725405)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/5c461d55-0007-41eb-9487-64ddab41de10)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/b0d44232-7742-4fcb-98ab-aa98ed92b66d)
+### 还有一些其他技术可以了解一下（Mesh Tessellation ,Partical Systems)
+### Procedural Modeling techniques
+#### Particle System
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/edf11a68-32ad-49a2-a010-14c7f1b7045f)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/990f2254-990d-4ed2-8993-a5193466f46f)
+#### Fractal
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/ca688603-0593-4a8b-b90c-73ef1b3e8f2e)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/4fe9847d-0082-47b5-b2a2-ae0e29acd029)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/ba79611c-9b85-4a6e-85ca-76f93e7a9f06)
+
+## Animation Fundamentals
+![e5c9d6dae9dfcb7794d1f7b7dcfdbd7](https://github.com/IAPEY/COMP_5415/assets/129077906/45213f90-6af1-4a4f-a93e-d47da6e4051d)
+### Computer Animation
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/dbe063d7-8207-4830-93e0-7bb5bbfe1795)
+#### 2D Computer Animation
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/041ade62-465c-4efe-a2eb-f2e736d81c71)
+#### 3D Computer Animation
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/a80a5bdb-dba4-4bc3-8486-c60c0d5d994f)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/3e1a7285-c6a8-40a0-b83e-2e014dfeb296)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/ce73441f-767f-433e-b4ff-2707263b8863)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/f743b5bd-931e-47f3-b207-6a59e30a758c)
+### The process of creating computer animations
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/6f8f9914-067b-4267-ac58-c4112e6fa2ed)
+#### Pre-production
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/2af97a43-0b8e-4771-b911-7795ced36219)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/a861661a-6f82-4d8c-9b08-8f1f15ad6c52)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/5933c25b-eb5a-4297-b845-3191dcfff617)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/e9e0bd05-def5-4cdb-b911-0e4c1add4ff7)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/d7c95318-1b90-4dc9-9c83-a14bfa7ab47c)
+#### Production(production中的知识点modeling在下面，character animation和effects animation之前提到了，其他的都在rendering部分）
+#### Modeling
+包含把2D图形转化为3D模型的方法，三个坐标空间，一个相机位置，还有顶点与片元以及3D物体是怎么组成的问题。
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/d8fa81b0-3b6c-4f5b-92a9-6b1bb832271e)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/50de8ebc-4eac-4933-a590-498cc10a7b2d)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/ebb49ba7-0218-40bb-88c0-49f135b4ef58)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/e2919fb3-5d0e-4350-b5af-62ddcd7b306e)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/ea2c42fc-3e55-4c2b-bd86-ec216ade38e3)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/088b8aa7-a269-4fb5-b8bd-3298eef6be29)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/143f2649-3635-4c88-b0ff-626bd1c7a4f5)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/caf1d747-420b-4368-8daf-e6c057fb670d)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/35437835-aaf8-4af1-96a1-bec47801971d)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/974c033a-3fdd-4ca4-8755-8a4b5334195e)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/1286f2a8-13c0-4452-9413-ae1c401fa21f)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/b17c1822-8c13-437e-9437-fbc9767e83cb)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/0c4b0dec-e3ca-40c4-85c5-f71196d5b75f)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/eb0815be-af39-4636-986e-3ace3370b877)
+
+
 
 
 ## Rendering
