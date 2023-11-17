@@ -1,4 +1,5 @@
-![image](https://github.com/IAPEY/COMP_5415/assets/129077906/a85e4b4f-aff5-46be-9e71-f2186be8e83e)# Comp5415 reviewing notes
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/a85e4b4f-aff5-46be-9e71-f2186be8e83e)
+# Comp5415 reviewing notes
 ## Design issues
 ![a1b61f58f68a9d9193cb82749607b7f](https://github.com/IAPEY/COMP_5415/assets/129077906/d7357d5e-57b1-4a5c-afcb-207ede5d1e85)
 ### User-centered design
@@ -202,7 +203,7 @@ Week 8 lecture.
 ![image](https://github.com/IAPEY/COMP_5415/assets/129077906/5933c25b-eb5a-4297-b845-3191dcfff617)
 ![image](https://github.com/IAPEY/COMP_5415/assets/129077906/e9e0bd05-def5-4cdb-b911-0e4c1add4ff7)
 ![image](https://github.com/IAPEY/COMP_5415/assets/129077906/d7c95318-1b90-4dc9-9c83-a14bfa7ab47c)
-#### Production(production中的知识点modeling在下面，character animation和effects animation之前提到了，其他的都在rendering部分）
+#### Production(production中的知识点modeling在下面，character animation和effects animation之前提到了，其他的都在rendering部分,Animation control 在下面3D Computer Animation-Animation Control的版块内）
 #### Modeling
 包含把2D图形转化为3D模型的方法，三个坐标空间，一个相机位置，还有顶点与片元以及3D物体是怎么组成的问题。
 ![image](https://github.com/IAPEY/COMP_5415/assets/129077906/d8fa81b0-3b6c-4f5b-92a9-6b1bb832271e)
@@ -281,6 +282,44 @@ bump map实际上只改变了法线在运算光照时的方向，但是没有改
 ![image](https://github.com/IAPEY/COMP_5415/assets/129077906/9b4b7b5f-3b47-41f2-87eb-7c28b3d0439a)
 ![image](https://github.com/IAPEY/COMP_5415/assets/129077906/a66fc920-3ebf-4318-ab61-d4bc8a85d653)
 ![image](https://github.com/IAPEY/COMP_5415/assets/129077906/c1ea9110-fe78-4b00-a374-39528b95de48)
+
+## 3D Computer Animation - Animation Control
+![200f6743afd8909e04a7684b85e33ab](https://github.com/IAPEY/COMP_5415/assets/129077906/a1405b79-faef-4ff1-b7d3-7e485e604fde)
+### Explicitly declared control
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/4dff2eba-c28a-44d1-9efe-2ee3f6cc65cd)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/ebcabe9f-c2f4-42c7-9235-6366c7a65630)
+### Kinematics control
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/2a283579-e9de-48d5-8cfa-4ff8475bfac3)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/cff2bd38-5a4b-4b02-a793-d75a04031795)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/7c2a3a02-33fa-4896-8c09-30fd5ab6da9d)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/cb99a027-a48e-475a-8f8a-f4fb7720cfe7)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/b8c5a18f-1d15-4c4d-848e-c200d4b218b5)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/cdf2e7bf-39da-418d-9bb9-701c244f41b8)
+### Live action / analyzing control
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/95f29939-ed48-4320-9f7b-f3f37cac5912)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/38c8899a-d36a-4531-930f-f2580f8b8ccd)
+### Procedural control
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/6e42f99c-6125-41b0-bab8-8e18fdbdb058)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/6e0ea8fe-3722-491f-b35a-d5b3337aeb89)
+
+## Post-processing(后处理）
+![463217a1b8ccbe6ca56f65f984d4be6](https://github.com/IAPEY/COMP_5415/assets/129077906/7e8b2dc8-2237-47c7-a66f-e5cc833f13e7)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/6318ee3a-c9e9-48fd-98c3-138bb0584c44)
+
+### Compositing and re-touching
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/52e6bfc3-3287-4632-a1b9-64398c750b4b)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/c920956b-944c-411f-b5be-7c28dde7ae9b)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/244ee694-13d3-476b-be5a-0d7f077827e5)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/da2a3c6b-7c74-41da-b861-62c31bcfd3bf)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/1b97d4ea-56db-4449-be43-8ea75f92ed66)
+### Basic image compositing techniques/operations,e.g.,addition,over operations etc
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/f13e5888-7c8b-4fc1-835b-8f37f90c43bb)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/c1c7717d-f273-4d33-9955-87b89d121ee2)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/f8efae42-36aa-4990-81d4-7dce39da6f41)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/f896c000-3384-4aa9-bab4-5f206d57b1ac)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/019f20e9-ac5f-4ec2-9f62-6cd163272265)
+
+
 
 
 
