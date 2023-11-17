@@ -220,11 +220,31 @@ Week 8 lecture.
 ![image](https://github.com/IAPEY/COMP_5415/assets/129077906/0c4b0dec-e3ca-40c4-85c5-f71196d5b75f)
 ![image](https://github.com/IAPEY/COMP_5415/assets/129077906/eb0815be-af39-4636-986e-3ace3370b877)
 
+## 3D Computer Animation - Rendering
+![f3e90257dc94befc53caee00cf1fdc6](https://github.com/IAPEY/COMP_5415/assets/129077906/8bfebb94-7044-40b5-808d-d736e6daa57a)
 
+### 3D light sources and factors
+由于能量守恒定律，omni light在某一个位置的最大光强和物体与光源距离的平方成反比（相当于是把能量分散在球壳上，根据球壳的表面积公式可得），这也是所有非平行光都有光衰的现象的原因，包括平行光  
+光强与物体表面（片元）和光线之间的夹角有关。
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/1da2f9a9-e600-4e8a-94ad-88ca305dca7b)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/d779b230-4e23-4801-8d18-480dd6dd182c)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/87fd0ef1-87fd-471c-a347-d0cf52416d84)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/f5787f86-4bda-41ea-9abc-d1052fb113a0)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/e756f4f4-fbdd-440d-9865-eec392c71f71)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/800b3914-5688-4f67-aa94-c7bcf2a9d1d6)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/d654dd1b-5fec-495b-87b3-13eb9cc8bd71)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/bde92460-c34b-4adc-bf2d-ffa8cfb7053b)
+关于ambient reflection，specular，以及diffuse之间的关系[基础光照](https://personal.math.ubc.ca/~cass/courses/m309-03a/m309-projects/olafson/Reflection.htm#:~:text=Ambient%20Reflection%3A%20Ambient%20reflection%20is%20the%20simplest%20illumination,is%20the%20global%20ambient%20illumination%20in%20the%20scene.)这个网站讲的更加清晰
+### Main rendering technique
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/123078ed-1633-43f9-aa9a-468a098f441d)
+#### Flat
+#### Gouraud/smooth
+#### Phong
+#### Ray casting
+#### Ray tracing
 
+### Texture mapping techniques and mapping coordinates
 
-## Rendering
-## 3D Animation
 
 
 
