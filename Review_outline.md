@@ -318,7 +318,36 @@ bump map实际上只改变了法线在运算光照时的方向，但是没有改
 ![image](https://github.com/IAPEY/COMP_5415/assets/129077906/f8efae42-36aa-4990-81d4-7dce39da6f41)
 ![image](https://github.com/IAPEY/COMP_5415/assets/129077906/f896c000-3384-4aa9-bab4-5f206d57b1ac)
 ![image](https://github.com/IAPEY/COMP_5415/assets/129077906/019f20e9-ac5f-4ec2-9f62-6cd163272265)
-
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/a5f77bbe-d419-4a81-ad98-f5788ba5dd37)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/86c112da-2cc6-46a6-9332-c287b5d751fc)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/5cb74adb-a0d1-4547-88eb-93b5a10b302e)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/2a420966-78fc-438f-8f25-a5322878ee26)
+### Compositing with pre-multiplied images
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/b39f619f-b780-49a8-8978-c247c19e69f7)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/951671d6-fdc6-4f7e-9774-ee2f017f8fe1)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/f426ddc7-a051-4042-bca0-3336f6cdaa0b)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/88f6968b-536b-4ad8-a9bf-8163af965de1)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/7ed11ddc-cb8b-4aac-bb5f-64229bca0ecf)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/db3edac9-e86c-497f-907f-0db36e260ede)
+## Bluescreen and GreenScreen
+Chroma-keying里面有提到这俩，还有Animation里面的time freeze里面也有提到一嘴，其他地方都没有。
+## Matte creation/extraction methods
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/a3cf6002-7209-44d0-a1ce-db963f92bd3e)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/9cbae9f9-90dc-4782-a9a3-b35038551f46)
+### Chroma-keying
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/addf98d5-43fe-4827-9927-6de15ed01eb3)
+### Luma-keying
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/e7cad603-48ff-4f70-a350-387e59e5be15)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/21c5fc5b-c7b0-48fe-a445-013154dff5eb)
+### Difference matting
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/fc5c66de-7a35-4043-891c-80db6decdeed)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/7bf2d0d5-9ea5-41c9-a74e-b1def79b0e56)
+### Color Difference Method
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/69483337-2a9c-403f-90a6-3a4c887d296b)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/aae36dca-4812-4164-a1eb-8d22484d2df2)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/170ddfe2-84e9-408d-8748-e98e39f6a4d4)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/4fad8cba-af90-409d-bf0a-1ed0fbc608a8)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/ba9e1a62-7869-424e-a12e-c78cdadcf6b2)
 
 
 
