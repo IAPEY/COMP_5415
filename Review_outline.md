@@ -262,6 +262,25 @@ ray casting不如说是ray tracing的基础方法，其中有一个很重要的�
 ![image](https://github.com/IAPEY/COMP_5415/assets/129077906/4be025be-2ba6-41b7-af98-af04bb55dbb0)
 
 ### Texture mapping techniques and mapping coordinates
+#### Texture mapping
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/88f33aab-998f-449a-afa8-56a07c6e94d7)
+环境贴图是立方体的原因：环境贴图直接展开会产生变形。（椭圆展开的世界地图的两侧会产生这种变形）
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/820cc25a-7e1c-48e6-a987-0d22778b2356)
+bump map实际上只改变了法线在运算光照时的方向，但是没有改变模型。
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/762d26b3-3629-4b1a-8303-cd4fc30be5e9)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/bbdeca21-3815-4040-9d6e-46d008971eb5)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/fec23190-f2f5-4c4e-b15d-4ef778cd1246)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/82bb32e4-a525-4fe3-927a-c298d658427c)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/791fd174-04ff-4b2b-b093-f012c431eeb2)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/e7263409-ea2f-40f3-b460-de49a3f9b207)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/f060b782-b6cd-405c-8b59-f2861ada84c3)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/0c79c58f-85fb-4af5-84b8-e3ead2013eaa)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/a4d284cd-f68f-49f5-8143-8fb1823e0136)
+  ![image](https://github.com/IAPEY/COMP_5415/assets/129077906/bee16878-0fd2-43ee-b7e0-e95b582c06c2)
+#### Mapping coordinates
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/9b4b7b5f-3b47-41f2-87eb-7c28b3d0439a)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/a66fc920-3ebf-4318-ab61-d4bc8a85d653)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/c1ea9110-fe78-4b00-a374-39528b95de48)
 
 
 
