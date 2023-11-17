@@ -237,11 +237,29 @@ Week 8 lecture.
 关于ambient reflection，specular，以及diffuse之间的关系[基础光照](https://personal.math.ubc.ca/~cass/courses/m309-03a/m309-projects/olafson/Reflection.htm#:~:text=Ambient%20Reflection%3A%20Ambient%20reflection%20is%20the%20simplest%20illumination,is%20the%20global%20ambient%20illumination%20in%20the%20scene.)这个网站讲的更加清晰
 ### Main rendering technique
 ![image](https://github.com/IAPEY/COMP_5415/assets/129077906/123078ed-1633-43f9-aa9a-468a098f441d)
+这里提一下，flat，gouraud，phong shading的显著效果差异会在面数少的情况下体现，面数多到一定程度的时候三者效果不会有明显差异。着色中最为困难的不是风格化着色，而是模拟现实场景的着色，上面把现实光照的原理进行拆分和简化，下面是在模型上实现这些现实光照的方法。
 #### Flat
+这种着色方式是片元级别的着色方式，根据每个面的法线方向，给每个面进行着色，同一个面的颜色一样，特点是非常快，但是不是特别平滑。高光效果很差。
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/052b60c2-7fa4-4c4f-b56d-35390c028022)
+
 #### Gouraud/smooth
+这种着色方式计算了每个顶点的法线，并根据法线的方向进行着色，着色时对片元内像素的颜色进行插值运算，得出像素的颜色。当然，计算顶点的法线的时候根据顶点临近面的比值去计算顶点的法线会优化最终效果。
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/d9e39764-5720-40ce-ae8d-de224fbc3c3a)
+
 #### Phong
+这种着色方式也是先计算每个顶点的法线，然后插值出每个像素的法线，再对每个像素着色。这种着色方式是三种方式中唯一一种像素级别运算的着色方式，高光的模拟效果最好。
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/729dc034-6981-4b16-9e6e-04318df898e7)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/e8e6c267-87a6-4c69-a8af-2f9084f2deaf)
+
 #### Ray casting
+ray casting不如说是ray tracing的基础方法，其中有一个很重要的简化运算的思想是屏幕未显示的部分不参与运算，与其从光源开始追溯光线，不如从屏幕的每一个像素反过来追踪光线的传播路径，来确认哪一些光线被追踪或者是不被追踪。实际上，一个像素可以追踪到的光线数量很多，引入了一个和空间以及步长相关的算法去控制哪些光线被追踪，哪些可以省略。
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/bacc18bd-a3ff-4fa5-a70e-3389f0450c0b)
+
 #### Ray tracing
+优缺点都要了解，相较于phong shading，ray tracing的好处是可以计算光线的多次反射，使得场景更加的真实。（phong只计算了环境光，高光和光衰）。phong shading以及上面两种shading还有一个缺点是都无法计算阴影的生成，ray tracing计算之后会很自然的生成阴影。最后一点（我的想法）在shading之后有一个光栅化的过程，ray tracing在其中的表现也会更好。
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/1e961f64-b0c4-406e-9bdf-868c4abc6b32)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/7f81d1d0-323f-41b5-87cf-6e3ce309f4b0)
+![image](https://github.com/IAPEY/COMP_5415/assets/129077906/4be025be-2ba6-41b7-af98-af04bb55dbb0)
 
 ### Texture mapping techniques and mapping coordinates
 
