@@ -60,7 +60,7 @@ W6 lecture slide下面有个混合使用这四种方法的案例，不知道考�
 ### Color Modes
 ![image](https://github.com/IAPEY/COMP_5415/assets/129077906/6e5e745f-d97e-4dc8-a7e0-f93a961a00b1)
 #### RGB
-根据rgb三种颜色混合来确定颜色。这里有一个很奇妙的点，8bit，和16bit的位深都不是3的倍数是怎么一回事。
+根据rgb三种颜色混合来确定颜色。
 ![image](https://github.com/IAPEY/COMP_5415/assets/129077906/2d2a9196-3c0f-49ec-b9a9-3fdf6c1110c0)
 
 ![image](https://github.com/IAPEY/COMP_5415/assets/129077906/b0570548-5868-4fe8-8b0f-f6738085e1c9)
