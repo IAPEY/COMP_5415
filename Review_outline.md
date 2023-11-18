@@ -1,4 +1,3 @@
-![image](https://github.com/IAPEY/COMP_5415/assets/129077906/a85e4b4f-aff5-46be-9e71-f2186be8e83e)
 # Comp5415 reviewing notes
 ## Design issues
 ![a1b61f58f68a9d9193cb82749607b7f](https://github.com/IAPEY/COMP_5415/assets/129077906/d7357d5e-57b1-4a5c-afcb-207ede5d1e85)
